@@ -35,8 +35,7 @@
 ### :man_technologist: About Me :
 - 👋 Hi, I’m @Mukish45
 - 👀 I’m interested in Machine Learning and Android Application Development
-- 🌱 I’m currently learning M.Sc Artificial Intelligence and Machine Learning course at Coimbatore Institute of Technology
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Artificial Intelligence and Machine Learning course at Coimbatore Institute of Technology
 - 📫 Reach me at mukishselvam123@gmail.com
 
 ---
