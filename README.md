@@ -38,6 +38,7 @@
 - 🌱 I’m currently pursuing Artificial Intelligence and Machine Learning at Coimbatore Institute of Technology
 - 📫 Reach me at mukishselvam123@gmail.com
 
+<!---
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
@@ -67,6 +68,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>
 </div>
+--->
+
 
 ---
 
