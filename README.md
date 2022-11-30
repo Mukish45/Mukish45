@@ -81,8 +81,7 @@
 ---
 
 ### Listen with me:
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=0aooe5f9nr6hcqz6m4d9zrcwb&width=600)
-
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=0aooe5f9nr6hcqz6m4d9zrcwb&count=1)
 
 <!---
 Mukish45/Mukish45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
