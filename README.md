@@ -76,6 +76,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukish45&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+### Listen with me:
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=0aooe5f9nr6hcqz6m4d9zrcwb&width=600)
+
+
 <!---
 Mukish45/Mukish45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
