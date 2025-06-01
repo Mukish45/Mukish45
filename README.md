@@ -34,7 +34,8 @@
 
 ### :man_technologist: About Me :
 - 👋 Hi, I’m @Mukish45
-- 🌱 I’m currently pursuing Masters in Artificial Intelligence and Machine Learning at Coimbatore Institute of Technology
+- 🌱 I’m currently working as a Data Scientist @ MangoBytes.
+- 🎓 Graduated Masters in Artificial Intelligence and Machine Learning from Coimbatore Institute of Technology
 - 👀 I’m interested in Machine Learning, Generative AI
 - 📫 Reach me at mukishselvam123@gmail.com
 
