@@ -110,12 +110,9 @@ good system boundaries
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mukish45&theme=github_dark" alt="Mukish's GitHub stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mukish45&theme=github_dark" alt="Top languages" />
+**Building in public, one useful commit at a time.**
 
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mukish45&theme=github_dark" alt="GitHub contribution summary" />
+[Explore my repositories](https://github.com/Mukish45?tab=repositories) · [See my activity](https://github.com/Mukish45)
 
 </div>
 
