@@ -62,27 +62,8 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Mukish45&theme=dark&background=000000" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukish45&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
-</div>
-
 ---
 
-### 🤖 AI & ML Expertise
-
-<div align="center">
-  
-  **Specialized in:**
-  - Deep Learning & Neural Networks
-  - Natural Language Processing (NLP)
-  - Computer Vision
-  - Generative AI Models (LLMs, Diffusion Models)
-  - Time Series Forecasting
-  - Data Analysis & Visualization
-  
-</div>
-
----
 
 ### 📊 Current Focus
 
