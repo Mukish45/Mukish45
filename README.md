@@ -68,13 +68,28 @@
 
 ---
 
-### :headphones: Listen with Me
+### 🤖 AI & ML Expertise
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31jcr6bohkd542rpefvhudn3y2ii">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jcr6bohkd542rpefvhudn3y2ii" alt="Spotify Recently Played"/>
-  </a>
+  
+  **Specialized in:**
+  - Deep Learning & Neural Networks
+  - Natural Language Processing (NLP)
+  - Computer Vision
+  - Generative AI Models (LLMs, Diffusion Models)
+  - Time Series Forecasting
+  - Data Analysis & Visualization
+  
 </div>
+
+---
+
+### 📊 Current Focus
+
+- Building scalable ML pipelines
+- Exploring cutting-edge GenAI applications
+- Contributing to open-source ML projects
+- Mentoring aspiring data scientists
 
 ---
 
