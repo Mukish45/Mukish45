@@ -110,12 +110,12 @@ good system boundaries
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mukish45&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Mukish's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukish45&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mukish45&theme=github_dark" alt="Mukish's GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mukish45&theme=github_dark" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Mukish45&hide_border=true&theme=transparent" alt="GitHub streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mukish45&theme=github_dark" alt="GitHub contribution summary" />
 
 </div>
 
