@@ -32,7 +32,7 @@
 ### :man_technologist: About Me
 
 - 👋 Hi, I'm **Mukish**
-- 🔬 **Data Scientist** @ MangoBytes
+- 🔬 **Senior Data Scientist** @ MangoBytes
 - 🎓 **Masters in AI & ML** from Coimbatore Institute of Technology
 - 🚀 Passionate about Machine Learning, Generative AI, and LLMs
 - 📧 Reach me at **mukishselvam123@gmail.com**
